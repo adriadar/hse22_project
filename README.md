@@ -1,1 +1,1 @@
-# hse_bioinf_project
+# hse_project
