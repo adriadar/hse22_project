@@ -17,3 +17,11 @@
 | Candida albicans  | GCF_000182965.3  | 1100 | 12006 |
 | Eremothecium cymbalariae | GCF_000235365.1  | 1127 | 11794 |
 | Candida orthopsilosis | GCF_000315875.1  | 1134 | 11736 |
+
+
+#### Ноутбуки:
+[основной ноутбук (до кластеризации)](https://colab.research.google.com/drive/1-1bBT8vFovMzNzpgtjYohGVUZcXbdaRo?usp=sharing)
+
+[ноутбук с кластеризацией](https://colab.research.google.com/drive/1_QqrvuLyPzKsh0asfE-lVIGLAtbUO5aR#scrollTo=x9TB8apN0WNA)
+
+У меня получилось всего 6622 кластера. Кластеров, в которых 5 генов - 2923.
