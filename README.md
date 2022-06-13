@@ -29,9 +29,8 @@
 ![image](https://user-images.githubusercontent.com/58707354/173412361-5b9cbd5b-0107-4beb-87df-c4bfb4cf6ca8.png)
 
 
-
 #### Ноутбуки:
-[основной ноутбук (до кластеризации)](https://colab.research.google.com/drive/1-1bBT8vFovMzNzpgtjYohGVUZcXbdaRo?usp=sharing)
+[основной ноутбук (до кластеризации)](https://colab.research.google.com/drive/1el71onyxsKFnoE5Lv9tQFohxm3fV3iG-?usp=sharing)
 
 [ноутбук с кластеризацией](https://colab.research.google.com/drive/1_QqrvuLyPzKsh0asfE-lVIGLAtbUO5aR#scrollTo=x9TB8apN0WNA)
 
