@@ -18,6 +18,17 @@
 | Eremothecium cymbalariae | GCF_000235365.1  | 1127 | 11794 |
 | Candida orthopsilosis | GCF_000315875.1  | 1134 | 11736 |
 
+## Гистограмы
+
+(если нарисовать на одном графике, то ничего не будет понятно, так как значения сильно отличаются)
+
+![image](https://user-images.githubusercontent.com/58707354/173412268-768e4704-867b-4a0f-aef7-9c6963b9771f.png)
+![image](https://user-images.githubusercontent.com/58707354/173412291-d37534b0-ffbd-4a57-b441-cf818a99f132.png)
+![image](https://user-images.githubusercontent.com/58707354/173412320-f0b5ed99-3391-4988-b791-a5fe4d9f0825.png)
+![image](https://user-images.githubusercontent.com/58707354/173412339-4923afcf-e0cc-46f1-abf7-861649d7f5e4.png)
+![image](https://user-images.githubusercontent.com/58707354/173412361-5b9cbd5b-0107-4beb-87df-c4bfb4cf6ca8.png)
+
+
 
 #### Ноутбуки:
 [основной ноутбук (до кластеризации)](https://colab.research.google.com/drive/1-1bBT8vFovMzNzpgtjYohGVUZcXbdaRo?usp=sharing)
