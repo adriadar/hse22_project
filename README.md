@@ -35,3 +35,19 @@
 [ноутбук с кластеризацией](https://colab.research.google.com/drive/1_QqrvuLyPzKsh0asfE-lVIGLAtbUO5aR#scrollTo=x9TB8apN0WNA)
 
 У меня получилось всего 6622 кластера. Кластеров, в которых 5 генов - 2923. У меня получился только один кластер, в котором есть Z-ДНК у всех 5 белков, один кластер, в котором есть Z-ДНК у 4 белков, 30 кластеров, в котором есть Z-ДНК у 3 белков.
+
+5 белков:
+
+![image](https://user-images.githubusercontent.com/58707354/173428919-a708658f-9af0-4cad-a5b7-40f90454cd2c.png)
+
+4 белка:
+
+![image](https://user-images.githubusercontent.com/58707354/173429285-f6b50a81-5251-4112-9de7-75bfdd836b3f.png)
+
+3 белка:
+
+![image](https://user-images.githubusercontent.com/58707354/173430178-2d84261c-9c81-4c62-9e5a-caf18cbeaace.png)
+![image](https://user-images.githubusercontent.com/58707354/173430271-9d1066b6-b87d-4ea9-9427-da1eae43504f.png)
+![image](https://user-images.githubusercontent.com/58707354/173430301-50f575b3-d54d-477c-a467-ed4b1f344f88.png)
+
+
